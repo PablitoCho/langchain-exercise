@@ -1,3 +1,6 @@
 langchain
 .venv
 API_KEY
+
+**/*.pyc
+.chainlit
