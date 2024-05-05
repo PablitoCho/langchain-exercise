@@ -4,3 +4,6 @@ API_KEY
 
 **/*.pyc
 .chainlit
+
+logs.txt
+test.py
